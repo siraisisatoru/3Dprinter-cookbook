@@ -196,7 +196,9 @@ This project was built for university coursework (USYD ENGG5203) and aims to uti
 
 # License
 
-This project is agreed upon by all development members to make it public. The project follows MIT licensing and all external users are free to make modifications to the code in this repository.
+All development members agree upon this project to make it public. The project follows MIT licensing and all external users are free to modify the code in this repository.
 
+# Contributors
+Special thanks to all team members who contributed to the front-end development of the project. @guli0499 @pph32 @BraedenCa @Charmingcaiusyd
 
 
