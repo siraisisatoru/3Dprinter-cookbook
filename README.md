@@ -26,7 +26,8 @@ Beginning with the need for customized setup instructions, we decided to develop
 
 <details>
 <summary>Full file structure with explaination</summary>
-```
+  
+```text
 .
 ├── public
 │   ├── company_logo                [Folder stores library svg files]
