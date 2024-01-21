@@ -5,9 +5,15 @@ The front-end design utilizes chatGPT and Reactjs to produce customized 3D print
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="public/sampleLogo_invert.svg">
   <source media="(prefers-color-scheme: light)" srcset="public/sampleLogo.svg">
-  <img alt=" Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img width="300" alt=" Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 </p>
+
+<p align="middle">
+<img width="300" src="demo_img/Form.png">
+  <img width="300"   src="demo_img/Ins.png">
+</p>
+
 
 # Introduction
 3D printers just like all other kinds of home appliances come with a set of user manuals. Users can follow that manual for initial setup. Take air fryers as an example, users can usually find a receipt. However, the quality of each print usually varies due to several environmental parameters including the nozzle temperature, the nozzle size and the physical placement of the device. 
