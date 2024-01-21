@@ -3,8 +3,8 @@ The front-end design utilizes chatGPT and Reactjs to produce customized 3D print
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="cookbook/public/sampleLogo_invert.svg">
-  <source media="(prefers-color-scheme: light)" srcset="cookbook/public/sampleLogo.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="public/sampleLogo_invert.svg">
+  <source media="(prefers-color-scheme: light)" srcset="public/sampleLogo.svg">
   <img alt=" Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 </p>
