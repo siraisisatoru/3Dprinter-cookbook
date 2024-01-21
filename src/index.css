@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,300&family=Comfortaa&family=Dosis&family=Gluten:wght@300&family=Rajdhani:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+@import "react-image-gallery/styles/css/image-gallery.css";
+@import "animate.css/animate.min.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
